@@ -1,4 +1,4 @@
-# HTB - Vaccine
+# HTB - Vaccine (Tier 2)
 **Difficulty:** Very Easy  
 **OS:** Linux
 
